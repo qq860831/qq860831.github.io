@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ian部落格</title>
-    <link>https://qq860831.github.io/hugo-test/categories/</link>
+    <link>https://qq860831.github.io/categories/</link>
     <description>Recent content in Categories on Ian部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 15 Oct 2020 10:00:47 +0800</lastBuildDate><atom:link href="https://qq860831.github.io/hugo-test/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 10:00:47 +0800</lastBuildDate><atom:link href="https://qq860831.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Share</title>
-      <link>https://qq860831.github.io/hugo-test/categories/share/</link>
+      <link>https://qq860831.github.io/categories/share/</link>
       <pubDate>Thu, 15 Oct 2020 10:00:47 +0800</pubDate>
       
-      <guid>https://qq860831.github.io/hugo-test/categories/share/</guid>
+      <guid>https://qq860831.github.io/categories/share/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Language</title>
-      <link>https://qq860831.github.io/hugo-test/categories/go-language/</link>
+      <link>https://qq860831.github.io/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://qq860831.github.io/hugo-test/categories/go-language/</guid>
+      <guid>https://qq860831.github.io/categories/go-language/</guid>
       <description></description>
     </item>
     
